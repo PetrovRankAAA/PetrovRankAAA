@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PetrovRankAAA
-- 👀 I’m interested in (just learning DS)
-- 🌱 I’m currently learning cool python libs for ds
-- 💞️ I’m looking to collaborate on (not really, skills are too poor, yet)
+- 
+- 🌱 I’m currently learning cool python libs
+
 - 📫 How to reach me crab_king@mail.ru // https://t.me/peprov
 
 <!---
